@@ -169,7 +169,8 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <jvmTarget>1.8</jvmTarget>
+                     <source>1.8</source>
+                     <target>1.8</target>
                 </configuration>
             </plugin>
         </plugins>
