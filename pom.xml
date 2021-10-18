@@ -125,7 +125,6 @@
         </plugin>
     </plugins>
 </build>
-    <build>
         <plugins>
             <plugin>
                 <groupId>org.jetbrains.kotlin</groupId>
@@ -185,6 +184,5 @@
                 </executions>
             </plugin>
         </plugins>
-    </build>
 
 </project>
